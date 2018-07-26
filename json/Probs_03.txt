@@ -1,0 +1,93 @@
+﻿{
+"aaData":[
+[
+"家用電器<P>-家電/視聽",
+"高雄",
+"<img alt='店家logo' src='storepics/02-2-001.jpg' width='640'>",
+"佑峯電器行",
+"家用電器產品<p>高雄市小港區宏平路457號<p> 07-802-2591/0928398529  <p>市價優惠2%<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市小港區宏平路457號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/02-2-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市小港區宏平路457號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-修繕/裝璜",
+"高雄",
+"<img alt='店家logo' src='storepics/03-1-001.jpg' width='640'>",
+"張永豊",
+"窗簾、壁紙、塑膠地磚、拉門<p>高雄市鳥松區同富街132巷3弄20號<p> 0932-799-649 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳥松區同富街132巷3弄20號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-1-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳥松區同富街132巷3弄20號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-修繕/裝璜",
+"高雄",
+"<img alt='店家logo' src='storepics/03-1-002.jpg' width='640'>",
+"格域室內設計",
+"商店、住室之室內設計、施工等<p>高雄市前鎮區沱江街135號3樓<p>0929-393-093 <p>現金工程款9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市前鎮區沱江街135號3樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-1-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市前鎮區沱江街135號3樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-傢俱/廚具",
+" 高雄",
+"<img alt='店家logo' src='storepics/03-2-001.jpg' width='640'>",
+"信誠廚具行",
+"高級歐化廚具<p>高雄市前鎮區三多二路381號<p>07-332-2555 / 0939-368-417  <p>依商品項目優惠<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市前鎮區三多二路381號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-2-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市前鎮區三多二路381號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-傢俱/廚具",
+"台東",
+"<img alt='店家logo' src='storepics/03-2-002.jpg' width='640'>",
+"東明鋼床行",
+"老k排彈簧床<p>台東市光明路115號<p> 089-324-431 / 0928-788-193<p><P><a target='_blank' href='https://www.google.com.tw/maps/place/台東市光明路115號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-2-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東市光明路115號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-傢俱/廚具",
+"台南",
+"<img alt='店家logo' src='storepics/03-2-003.jpg' width='640'>",
+"大內棉被店",
+"手工棉被、寢飾、床墊、枕頭等<p>台南市大內區大內里53號<p>06-576-4153<p>現金95折<P><a target='_blank' href='https://www.google.com.tw/maps/place/台南市大內區大內里53號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-2-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台南市大內區大內里53號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-傢俱/廚具",
+"高雄",
+"<img alt='店家logo' src='storepics/03-2-004.jpg' width='640'>",
+"Smile小窩手工棉被店",
+"手工棉被、寢飾、床墊、枕頭等<p>高雄市小港區小港路147巷163琥<p>07-831-4892  / 0931-930-940 <p>現金95折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市小港區小港路147巷163琥'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-2-004.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市小港區小港路147巷163琥'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-水電維修",
+"高雄",
+"<img alt='店家logo' src='storepics/03-3-001.jpg' width='640'>",
+"詠發水電宅修",
+"水管不通、抓漏、燈具、廚具、配電、配管、電腦維修。<p>高雄市左營區城峰路28號6樓之1<p>0915-030-866 <p>現金工資9折起<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市左營區城峰路28號6樓之1'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-3-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市左營區城峰路28號6樓之1'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-五金用品",
+"高雄",
+"<img alt='店家logo' src='storepics/03-4-001.jpg' width='640'>",
+"栗安行",
+"家用五金類清掃用具、餐具、廚房、浴室、居家用品等<p>高雄市鳥松區松埔北巷33號鳥松國中斜對面<p> (07)733-79-28(29)  / 0913-870-832<p>現金批發價<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳥松區松埔北巷33號鳥松國中斜對面'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-4-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳥松區松埔北巷33號鳥松國中斜對面'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"住屋居家<P>-鑰匙/刻印",
+"高雄",
+"<img alt='店家logo' src='storepics/03-5-001.jpg' width='640'>",
+"和平印鎖店",
+"各類鎖之開鎖、裝鎖、刻印、裝修遙控器、拷貝遙控器<p>高雄市三民區民孝路26號近覺民路與高速公路<p>(07)390-6223  / 0911-466-788 <p>現金依服務項目而定<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區民孝路26號近覺民路與高速公路'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/03-5-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區民孝路26號近覺民路與高速公路'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+]
+]}

@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Video Player 2</title>
+<link href="css/musicplayer.css" rel="stylesheet" type="text/css" />
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+//格式 網址後?name="A" & time= "B", A為mp3/mp4檔案名稱，B為播放時間，從頭播放 time=0
+    
+   function show () {
+    //URL
+    var url = location.href;
+    //alert(url);
+ 
+    //取得問號之後的值
+   var time=url.split("&");
+   var time1=time[1].split("=");
+   //alert(time1[1]);
+ 
+    //將值與google drive id 合併
+   var vars = "https://drive.google.com/uc?export=download&id="+time1[1];
+   //alert(vars);
+
+   var video=document.getElementById("Video1");
+   video.setAttribute("src", vars);
+   video.load();
+   video.currentTime="0";
+   //document.getElementById("currentime").value = formatsecond(time1[1]);
+   video.play();
+   
+   //document.getElementById("mysource").src=vars[1];
+   //alert(document.getElementById("mysource").src);
+     
+    //一一顯示出來
+   // for (var i = 0; i < vars.length; i++) {
+   //  alert(vars[i]);
+   //  document.getElementById("mysource").src=vars[i];
+  //  };
+	
+   }
+   
+//時間秒數轉時分格式   
+function formatsecond(secs){
+	var hr = Math.floor(secs / 3600);
+    var min = Math.floor((secs - (hr * 3600)) / 60);
+    var sec = parseInt( secs - (hr * 3600) - (min * 60));
+ 
+    while (min.length < 2) { min = '0' + min; }
+    while (sec.length < 2) { sec = '0' + min; }
+    if (hr) hr += ':';
+    return hr + min + ':' + sec;
+}
+
+
+function stop(){
+	document.getElementById("Video1").pause();
+} 
+</script>
+</head>
+
+<body>
+
+<div class="style1">
+<video id="Video1" width="400" autoplay controls="true">
+  <source id="mysource" src="" type="video/mp4">
+  Your browser does not support HTML5 video.
+  https://drive.google.com/uc?export=download&id=your google drvie id
+</video>
+
+<p></p>
+<input type="button" class="button button1" value="開始播放" onclick="show();">
+<input type="button" class="button button2" value="停止播放" onclick="stop();">
+<input type="button" class="button button4" value="回前頁" onclick="javascript:location.href='index.html'">
+
+<br />
+播放時間起始：<input id="currentime" type="button" class="button button3" value="0" >
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,165 @@
+﻿{
+"aaData":[
+[
+"好食特產<P>-餐飲小吃",
+"高雄",
+"<img alt='店家logo' src='storepics/01-1-001.jpg' width='640'>",
+"慈香庭蔬食餐飲",
+"港飲單點<p>高雄市三民區九如一路613號<p>07-392-9607<p>9折現金 / 95折刷卡<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區九如一路613號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區九如一路613號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-餐飲小吃",
+"高雄",
+"<img alt='店家logo' src='storepics/01-1-002.jpg' width='640'>",
+"Olife活力客鳳山青年店",
+"冷熱飲料<p>鳳山區青年路一段375號<p>07-743-5688<p>9折現金<P><a target='_blank' href='https://www.google.com.tw/maps/place/鳳山區青年路一段375號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/鳳山區青年路一段375號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-餐飲小吃",
+"高雄",
+"<img alt='店家logo' src='storepics/01-1-003.jpg' width='640'>",
+"橘子禪蔬食餐廳",
+"簡餐、套餐<p>高雄市鳳山區文平街49號<p> 07-777-3866<p>9折現金<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳳山區文平街49號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳳山區文平街49號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-餐飲小吃",
+"高雄",
+"<img alt='店家logo' src='storepics/01-1-004.jpg' width='640'>",
+"愛園中西式餐飲",
+"早中餐點米飯麵類健康飲品無添加色素，化學成份<p>高雄市新興區開封路62號        營業時間05:30~16:30<p>07-225-4958 <p>現金健康飲品打9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市新興區開封路62號        營業時間05:30~16:30'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-004.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市新興區開封路62號        營業時間05:30~16:30'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-餐飲小吃",
+"高雄",
+"<img alt='店家logo' src='storepics/01-1-005.jpg' width='640'>",
+"珉樺壽司",
+"花壽司、豆皮壽司、素食壽司、壽司拼盤<p>高雄市仁武區南勢巷44號<p><p>依訂購量而定<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市仁武區南勢巷44號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-005.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市仁武區南勢巷44號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-餐飲小吃",
+"高雄",
+"<img alt='店家logo' src='storepics/01-1-006.jpg' width='640'>",
+"Lievercafé野兔咖啡",
+"有機咖啡、淨源茶全館均為素食<p>高雄市三民區皓東路1716號<p>07-385-9063 <p>現金內用飲料9折 | 外帶買1送1咖啡豆9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區皓東路1716號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-006.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區皓東路1716號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-餐飲小吃",
+"高雄",
+"<img alt='店家logo' src='storepics/01-1-007.jpg' width='640'>",
+"果之香蔬果主題餐廳",
+"蔬果、烘焙、法式餐飲原料自有農場栽種<p>高雄市鼓山區華榮路50號<p>07-553-5438 <p>免10%服務費 | 當日當次消費滿4000元即贈399元餐卷乙張(限下次使用)<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鼓山區華榮路50號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-007.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鼓山區華榮路50號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-餐飲小吃",
+"台南",
+"<img alt='店家logo' src='storepics/01-1-008.jpg' width='640'>",
+"活力客天然茶咖連鎖",
+"有機、安全、無化學添加物、誠信、熱情、守護大地<p>台南市中西區中正路206號<p>06-355-2491<p>現金9折 | 特價品除外<P><a target='_blank' href='https://www.google.com.tw/maps/place/台南市中西區中正路206號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-008.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台南市中西區中正路206號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-餐飲小吃",
+"台東",
+"<img alt='店家logo' src='storepics/01-1-009.jpg' width='640'>",
+"琴韻飄香",
+"里仁食材便當<p>台東市更生路221號<p><p><P><a target='_blank' href='https://www.google.com.tw/maps/place/台東市更生路221號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-1-009.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東市更生路221號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-農產/特產",
+"屏東",
+"<img alt='店家logo' src='storepics/01-2-001.jpg' width='640'>",
+"屏東市蔬食產銷第一班德豪行",
+"頂柳牛蒡茶系列牛蒡片、牛蒡粉、牛蒡茶包、牛蒡精<p>屏東市頂柳里頂皂街51巷30號<p>08-752-2516 <p>滿2000以上，免運費。<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市頂柳里頂皂街51巷30號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-2-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市頂柳里頂皂街51巷30號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-農產/特產",
+"屏東",
+"<img alt='店家logo' src='storepics/01-2-002.jpg' width='640'>",
+"廣興蘿蔔糕",
+"一盒50元。百分之九十是米做的，有素食選擇。<p>屏東市中華路近救國團北區市場<p><p>若一次大於五條以上，即可送達研討班限屏東地區。<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市中華路近救國團北區市場'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-2-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市中華路近救國團北區市場'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-農產/特產",
+"屏東",
+"<img alt='店家logo' src='storepics/01-2-003.jpg' width='640'>",
+"川永生技休閒農場",
+"諾麗果系列產品<p>屏東縣內埔鄉大同路四段262號<p> 08-770-1609 <p>9折，團購另計。<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣內埔鄉大同路四段262號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-2-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣內埔鄉大同路四段262號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-農產/特產",
+"台東",
+"<img alt='店家logo' src='storepics/01-2-004.jpg' width='640'>",
+"新峰茶莊",
+"鹿野在地茶<p>台東縣鹿野鄉龍田村2鄰南三路17號<p> 089-551-135<p>滿2仟元打9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/台東縣鹿野鄉龍田村2鄰南三路17號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-2-004.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東縣鹿野鄉龍田村2鄰南三路17號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-麵包糕餅",
+"高雄",
+"<img alt='店家logo' src='storepics/01-3-001.jpg' width='640'>",
+"金玉香齋澎湖手工蛋捲",
+"手工蛋捲里仁有機糙米<p>高雄市鳳山區光榮街15巷36號<p>07-771-8462 <p>現金買十送一<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳳山區光榮街15巷36號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-3-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳳山區光榮街15巷36號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-麵包糕餅",
+"高雄",
+"<img alt='店家logo' src='storepics/01-3-002.jpg' width='640'>",
+"吉時坊",
+"手工牛軋糖<p>高雄市左營區明誠二路355號<p> 07-5588660 <p>現金95折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市左營區明誠二路355號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-3-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市左營區明誠二路355號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-麵包糕餅",
+"台南",
+"<img alt='店家logo' src='storepics/01-3-003.jpg' width='640'>",
+"十二店手工烘焙坊",
+"手工產品原料品質可掌控健康安全<p>台南市安南區公學路四段2巷65弄124號<p><p><P><a target='_blank' href='https://www.google.com.tw/maps/place/台南市安南區公學路四段2巷65弄124號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-3-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台南市安南區公學路四段2巷65弄124號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-麵包糕餅",
+"屏東",
+"<img alt='店家logo' src='storepics/01-3-004.jpg' width='640'>",
+"貝思特蛋糕專賣店",
+"無蛋素食生日蛋糕、客製化造型蛋糕、各小蛋糕拼盤<p>屏東市建豐路205號<p><p>全館購物滿200元享95折<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市建豐路205號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-3-004.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市建豐路205號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"好食特產<P>-超級市場",
+"高雄",
+"<img alt='店家logo' src='storepics/01-4-001.jpg' width='640'>",
+"春美便利商店",
+"食品、百貨、五金<p>高雄市橋頭區樹德路90號<p> 07-611-0801 <p>會員價<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市橋頭區樹德路90號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/01-4-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市橋頭區樹德路90號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+]
+]}

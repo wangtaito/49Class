@@ -1,0 +1,66 @@
+﻿{
+"aaData":[
+[
+"衣著配飾<P>-服飾/鞋類",
+"屏東",
+"<img alt='店家logo' src='storepics/04-1-001.jpg' width='640'>",
+"銘旺e店",
+"衣服、皮鞋<p>屏東市北區市場<p> / 0918-175-334 <p>現金打8折<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市北區市場'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/04-1-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市北區市場'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"衣著配飾<P>-理容/美妝",
+"高雄",
+"<img alt='店家logo' src='storepics/04-2-001.jpg' width='640'>",
+"荷風髮廊",
+"燙染髮採預約方式<p>高雄市阿蓮區忠孝路300巷16號<p> 07-631-5960  / 0988-386-379<p>現金8折燙髮、護髮、染髮<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市阿蓮區忠孝路300巷16號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/04-2-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市阿蓮區忠孝路300巷16號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"衣著配飾<P>-理容/美妝",
+"屏東",
+"<img alt='店家logo' src='storepics/04-2-002.jpg' width='640'>",
+"采妍坊企業社",
+"SPA阿育吠達、芸香療法、臉部身體保養產品、香精油等<p>屏東市成功路1323號<p>08-766-0589 <p>可享會員8折起<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市成功路1323號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/04-2-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市成功路1323號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"衣著配飾<P>-理容/美妝",
+"高雄",
+"<img alt='店家logo' src='storepics/04-2-003.jpg' width='640'>",
+"星美美容美髮材料行",
+"美容美髮材料零售批發<p>高雄市楠梓區建楠路190號<p>07-351-0462  / <p>9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市楠梓區建楠路190號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/04-2-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市楠梓區建楠路190號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"衣著配飾<P>-配飾/精品",
+"台東",
+"<img alt='店家logo' src='storepics/04-3-001.jpg' width='640'>",
+"至我精品商行",
+"贈禮品、按摩器材<p>台東中山路91號<p>08-9360-423  / 0921-1030-76 <p>9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/台東中山路91號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/04-3-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東中山路91號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"衣著配飾<P>-配飾/精品",
+"屏東",
+"<img alt='店家logo' src='storepics/04-3-002.jpg' width='640'>",
+"鼎豐珠寶銀樓",
+"k金、珠寶<p>屏東市中正路79號<p>08-733-4606<p>8折優惠可刷卡<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市中正路79號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/04-3-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市中正路79號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"衣著配飾<P>-配飾/精品",
+"高雄",
+"<img alt='店家logo' src='storepics/04-3-003.jpg' width='640'>",
+"金鋒銀樓",
+"黃金飾金、礸石珠寶、白金K金銀飾<p>高雄市旗山區中山路154號<p>07-661-3358<p>飾金工錢9折、礸石珠寶5折國際證書不在範圍<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市旗山區中山路154號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/04-3-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市旗山區中山路154號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+]
+]}

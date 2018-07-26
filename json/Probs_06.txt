@@ -1,0 +1,39 @@
+﻿{
+"aaData":[
+[
+"休閒旅遊<P>-旅行社",
+"高雄",
+"<img alt='店家logo' src='storepics/06-1-001.jpg' width='640'>",
+"冠洲旅行社有限公司",
+"1辦理證照免手續費2國際機票優惠3國外旅遊優惠<p>高雄市前金區中正四路235號17樓之3<p>07-2150-789 <p>現金國際機票依各航線優惠500至800元;國外旅遊每人優惠1000至1500元;刷卡加百分之2<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市前金區中正四路235號17樓之3'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/06-1-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市前金區中正四路235號17樓之3'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"休閒旅遊<P>-民宿",
+"台東",
+"<img alt='店家logo' src='storepics/06-4-001.jpg' width='640'>",
+"二常居",
+"古早人的灶腳、古早人的人情味<p>臺東縣卑南鄉東興村東園一街2巷6號<p> 089-381-657  / 0928-907-284<p>學員住宿八折<P><a target='_blank' href='https://www.google.com.tw/maps/place/臺東縣卑南鄉東興村東園一街2巷6號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/06-4-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/臺東縣卑南鄉東興村東園一街2巷6號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"休閒旅遊<P>-民宿",
+"高雄",
+"<img alt='店家logo' src='storepics/06-4-002.jpg' width='640'>",
+"竹亮山莊",
+"住宿<p>高雄市內門區內南里竹戈寮8之3號<p>07-667-3963  / 0937-311-883 <p>假日9折;平日8折;過年以定價折9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市內門區內南里竹戈寮8之3號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/06-4-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市內門區內南里竹戈寮8之3號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"休閒旅遊<P>-休閒農場",
+"台東",
+"<img alt='店家logo' src='storepics/06-5-001.jpg' width='640'>",
+"御品賞景農場",
+"茶、碳焙老茶、咖啡、住宿<p>台東縣卑南鄉美農村高台38之7號<p>0921-689-189 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/台東縣卑南鄉美農村高台38之7號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/06-5-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東縣卑南鄉美農村高台38之7號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+]
+]}

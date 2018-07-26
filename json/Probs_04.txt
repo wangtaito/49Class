@@ -1,0 +1,111 @@
+﻿{
+"aaData":[
+[
+"服務類<P>-汽車/機車",
+"高雄",
+"<img alt='店家logo' src='storepics/09-1-001.jpg' width='640'>",
+"襄理汽車維修廠",
+"代辦驗車，手續費免。鈑金、烤漆優惠方案。免費各種車輛，電腦診斷服務。<p>高雄市鳥松區球場路52號。<p> 07-379-1118  / 0935-484-071<p>零件一律打9折，現金刷卡皆可。<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳥松區球場路52號。'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳥松區球場路52號。'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-汽車/機車",
+"高雄",
+"<img alt='店家logo' src='storepics/09-1-002.jpg' width='640'>",
+"賢華輪胎行",
+"輪胎專賣店，但汽車相關都有服務。<p>高雄市三民區九如一路153號<p>07-384-8328  / 0963-360-361 <p>現金依服務項目優惠。<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區九如一路153號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區九如一路153號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-汽車/機車",
+"屏東",
+"<img alt='店家logo' src='storepics/09-1-003.jpg' width='640'>",
+"高昇機車行光陽",
+"領牌車，廣告商品車種。<p>屏東縣麟洛鄉民權路18號<p> 08-723-6940 / 08-722-6325<p>95折或9折，500元以上。<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣麟洛鄉民權路18號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣麟洛鄉民權路18號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-汽車/機車",
+"台南",
+"<img alt='店家logo' src='storepics/09-1-004.jpg' width='640'>",
+"愛濠機車行",
+"機車、電動機車、電動腳踏車修理維修<p>台南市麻豆區中山路32號<p>06-572-2120 <p>修理維修9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/台南市麻豆區中山路32號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-004.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台南市麻豆區中山路32號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-汽車/機車",
+"高雄",
+"<img alt='店家logo' src='storepics/09-1-005.jpg' width='640'>",
+"葉志鍇",
+"機車買賣、修理、驗車、回收<p>高雄市鼓山區華榮路585號<p> 07-522-6001  / 0986-036-966<p>新車特價優惠、分期零利率、免費驗車送贈品、修車換零件9折、換機油免費送齒輪油<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鼓山區華榮路585號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-005.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鼓山區華榮路585號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-汽車/機車",
+"台東",
+"<img alt='店家logo' src='storepics/09-1-006.jpg' width='640'>",
+"和興機車行",
+"摩托車買賣、摩托車修理<p>臺東市中正路260號<p>089-320-686<p><P><a target='_blank' href='https://www.google.com.tw/maps/place/臺東市中正路260號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-006.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/臺東市中正路260號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-汽車/機車",
+"高雄",
+"<img alt='店家logo' src='storepics/09-1-007.jpg' width='640'>",
+"永陽企業行",
+"電瓶：完全免加水、防爆，加水式：抗溫、蒸發微少、類免加水<p>高雄市鳳山區建國路三段74號<p>07-776-0364 <p>現金：批發價含安裝，購量多另價<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳳山區建國路三段74號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-007.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳳山區建國路三段74號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-汽車/機車",
+"高雄",
+"<img alt='店家logo' src='storepics/09-1-008.jpg' width='640'>",
+"順益汽車公司",
+"1三菱汽車銷售2各種中古車買賣3各種新車銷售<p>高雄市鳳山區光復路二段187號<p>07-747-0113 / 0935-700-135  <p>現金數萬元或配備折扣<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳳山區光復路二段187號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-008.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳳山區光復路二段187號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-汽車/機車",
+"高雄",
+"<img alt='店家logo' src='storepics/09-1-009.jpg' width='640'>",
+"聯協汽車修理廠",
+"引擎、冷氣、板金維修、和運中古車代拍代標、行車事故協助處理、報廢車環保回收。<p>高雄市左營區富民路209號<p> 07-556-0501  / 0910-430-864<p>依服務項目優惠、換機油送機油芯<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市左營區富民路209號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-1-009.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市左營區富民路209號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-居家照顧",
+"高雄",
+"<img alt='店家logo' src='storepics/09-3-001.jpg' width='640'>",
+"圓融看護中心",
+"醫院看護、居家看護<p>高雄市三民區<p>0933-883-085 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-3-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-清潔服務",
+"屏東",
+"<img alt='店家logo' src='storepics/09-4-001.jpg' width='640'>",
+"黃玉燕",
+"居家清潔<p>屏東縣萬丹鄉香社村香內路218號<p>08-777-4731 / 0911-303-401  <p>每小時250元<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣萬丹鄉香社村香內路218號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-4-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣萬丹鄉香社村香內路218號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"服務類<P>-殯葬禮儀",
+"高雄",
+"<img alt='店家logo' src='storepics/09-5-001.jpg' width='640'>",
+"聯合天命禮儀公司",
+"喪葬服務<p>高雄市三民區本館路600巷20號之1<p>07-385-6908  / 0980-024-326 <p>依服務項目優惠<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區本館路600巷20號之1'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/09-5-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區本館路600巷20號之1'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+]
+]}

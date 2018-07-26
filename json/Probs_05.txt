@@ -1,0 +1,93 @@
+﻿{
+"aaData":[
+[
+"教育文化<P>-安親/才藝",
+"屏東",
+"<img alt='店家logo' src='storepics/05-1-001.jpg' width='640'>",
+"小森林音樂人文安親中心",
+"用心及耐心陪伴學子培養高超品德及獨立自主個性<p>屏東市中山路288號<p> 08-733-7808  / 0989-996-839<p>註冊費全免，鋼琴贈送課本、樂譜<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市中山路288號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/05-1-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市中山路288號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"教育文化<P>-安親/才藝",
+"台東",
+"<img alt='店家logo' src='storepics/05-1-002.jpg' width='640'>",
+"德慧才藝班",
+"品德教育薰習<p>台東市中興路一段543巷12號<p> 0935-082-280 / 089-225-570 <p>送貳佰元里仁券1張<P><a target='_blank' href='https://www.google.com.tw/maps/place/台東市中興路一段543巷12號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/05-1-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東市中興路一段543巷12號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"教育文化<P>-幼兒園",
+"台東",
+"<img alt='店家logo' src='storepics/05-4-001.jpg' width='640'>",
+"蒲公英幼兒園",
+"園區寬廣，戶外綠地，採蒙特梭利混齡教學。<p>台東市傳廣路388巷11號<p> 089-351-618 / 0912-758-669 /  089-340-231<p>贈書包1個，餐袋1組<P><a target='_blank' href='https://www.google.com.tw/maps/place/台東市傳廣路388巷11號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/05-4-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東市傳廣路388巷11號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"圖書文具<P>-文具",
+"台東",
+"<img alt='店家logo' src='storepics/07-2-001.jpg' width='640'>",
+"東捷利文具店",
+"102年的歷史老店，提供最適用的商品，使工欲善其事必先利其器，最最好的是里仁商品。<p>台東縣關山鎮民權路691號<p> 089-811-130  / 0921-579-045<p>文具紙張75折，里仁商品折扣，配合里仁店促銷。<P><a target='_blank' href='https://www.google.com.tw/maps/place/台東縣關山鎮民權路691號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/07-2-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東縣關山鎮民權路691號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"圖書文具<P>-文具",
+"屏東",
+"<img alt='店家logo' src='storepics/07-2-002.jpg' width='640'>",
+"尚友胎毛筆莊",
+"毛筆，文房四寶<p>屏東縣內埔鄉和興村學興路210號<p>0983-689-296 <p>依各類文具而定，現金皆九折含以下。<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣內埔鄉和興村學興路210號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/07-2-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣內埔鄉和興村學興路210號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"圖書文具<P>-文具",
+"屏東",
+"<img alt='店家logo' src='storepics/07-2-003.jpg' width='640'>",
+"金典書局",
+"文具、玩具、參考書、影印、護貝、字典、禮品、賀卡、飾品、體育用具、白板訂做、姓名貼、姓名章<p>屏東市廣東路1279號<p>08-732-4908  / 0921-248-255 <p>1預購國小參考書可享7折、2文具結帳可享95折、3團購另有優惠，請電洽。<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市廣東路1279號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/07-2-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市廣東路1279號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"圖書文具<P>-圖書",
+"台南",
+"<img alt='店家logo' src='storepics/07-3-001.jpg' width='640'>",
+"柏聯文化事業有限公司",
+"書籍、雜誌：牛頓新小牛頓、少年牛頓等<p>台南市東區崇德路54號5樓<p> 06-269-5676  / 0970-929-889<p>現金、刷卡95折<P><a target='_blank' href='https://www.google.com.tw/maps/place/台南市東區崇德路54號5樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/07-3-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台南市東區崇德路54號5樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"圖書文具<P>-影印/印刷",
+"高雄",
+"<img alt='店家logo' src='storepics/07-4-001.jpg' width='640'>",
+"美育彩色印刷公司",
+"平版印刷、電腦數位印刷、書刊、海報、商品包裝<p>高雄市中華二路170號<p>07-311-2195~9 <p>95折、現金9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市中華二路170號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/07-4-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市中華二路170號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"圖書文具<P>-影印/印刷",
+"屏東",
+"<img alt='店家logo' src='storepics/07-4-002.jpg' width='640'>",
+"潮洲印刷廠",
+"請帖100張、名片300張、DM1000張、貼紙300張<p>屏東縣潮州鎮建基路130號<p> 08-788-2062  / 0956-035-603<p>基本量以上皆7折<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣潮州鎮建基路130號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/07-4-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣潮州鎮建基路130號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"圖書文具<P>-影像/廣告",
+"高雄",
+"<img alt='店家logo' src='storepics/07-5-001.jpg' width='640'>",
+"瑋超企業有限公司",
+"木製相框、證件框、裝框、錶框，產品優質。<p>高雄市鳥松區華美里學堂路29號<p>07-731-7892 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳥松區華美里學堂路29號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/07-5-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鳥松區華美里學堂路29號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+]
+]}

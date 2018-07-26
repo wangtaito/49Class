@@ -1,0 +1,66 @@
+﻿{
+"aaData":[
+[
+"其他<P>-動物醫院",
+"高雄",
+"<img alt='店家logo' src='storepics/10-1-001.jpg' width='640'>",
+"古盈動物醫院",
+"1醫療內外科。2飼料。3用品。<p>高雄市新興區民生一路34號<p>07-226-7559 / 07-226-3047 <p>現金9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市新興區民生一路34號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/10-1-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市新興區民生一路34號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"其他<P>-有機肥料",
+"屏東",
+"<img alt='店家logo' src='storepics/10-2-001.jpg' width='640'>",
+"高農生技股份有限公司",
+"魚露濃液土壤液肥淨園寶益菌土壤改良高纫地力旺50有機肥<p>屏東縣萬丹鄉萬全村萬榮街138號<p>08-777-8783  / 0920-290-345 <p>依採購量而定<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣萬丹鄉萬全村萬榮街138號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/10-2-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東縣萬丹鄉萬全村萬榮街138號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"其他<P>-園藝/花店",
+"台東",
+"<img alt='店家logo' src='storepics/10-3-001.jpg' width='640'>",
+"寫景園",
+"園藝造景、營造、老屋改造、農地規劃、施工<p>台東市更生路1200號<p> 0910-499-917 / 0921-689-189 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/台東市更生路1200號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/10-3-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東市更生路1200號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"其他<P>-園藝/花店",
+"台東",
+"<img alt='店家logo' src='storepics/10-3-002.jpg' width='640'>",
+"雪燦園花藝禮坊",
+"花藝設計婚禮佈置<p>台東市更生路347號<p> 089-347-515  / 0912-795-911<p>88折特價品除外<P><a target='_blank' href='https://www.google.com.tw/maps/place/台東市更生路347號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/10-3-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台東市更生路347號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"其他<P>-園藝/花店",
+"高雄",
+"<img alt='店家logo' src='storepics/10-3-003.jpg' width='640'>",
+"明佳美花店",
+"花藝設計婚禮佈置<p>高雄市小港區桂陽路203號<p>07-791-9699  / 0920-729-899 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市小港區桂陽路203號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/10-3-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市小港區桂陽路203號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"其他<P>-會計/稅務",
+"高雄",
+"<img alt='店家logo' src='storepics/10-4-001.jpg' width='640'>",
+"李秀連記帳士事務所",
+"稅務服務工商登記<p>高雄市三民區建德路61號11樓<p> 07-384-1010  / 0915-151-550<p>工商登記手續費9折諮詢免費。<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區建德路61號11樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/10-4-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區建德路61號11樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"其他<P>-法律咨詢",
+"高雄",
+"<img alt='店家logo' src='storepics/10-5-001.jpg' width='640'>",
+"周崇賢律師事務所",
+"法律服務各種訴訟代理或辯護、法律疑難事項之處理及諮詢<p>高雄市三民區灣中街159號<p>07-398-7375<p>1廣論學員持里仁卡前來諮詢一小時內免費。2其餘服務事項，酌予折扣優待。<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區灣中街159號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/10-5-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區灣中街159號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+]
+]}

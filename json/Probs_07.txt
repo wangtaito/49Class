@@ -1,0 +1,75 @@
+﻿{
+"aaData":[
+[
+"醫療保健<P>-中西醫院",
+"高雄",
+"<img alt='店家logo' src='storepics/08-1-001.jpg' width='640'>",
+"善德中醫診所",
+"內、婦、兒科、針灸科、中醫調理。<p>高雄市三民區皓東路1714號<p> 07-398-3568  / 0939-799-878<p>掛號費優待50元。原100元，優待後50元。<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區皓東路1714號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/08-1-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區皓東路1714號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"醫療保健<P>-中西醫院",
+"高雄",
+"<img alt='店家logo' src='storepics/08-1-002.jpg' width='640'>",
+"天乙中醫診所",
+"內、婦、兒科、針灸科、中醫調理。<p>高雄市三民區正興路187號<p> 07-382-8088  / 0939-560-706<p>自費藥打9折持殊條件者另計<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區正興路187號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/08-1-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區正興路187號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"醫療保健<P>-中西醫院",
+"高雄",
+"<img alt='店家logo' src='storepics/08-1-003.jpg' width='640'>",
+"海德堡牙醫診所",
+"植牙、牙周、矯正<p>高雄市鼓山區明誠四路10號2樓<p>07-555-9585  / 0988-785-526 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鼓山區明誠四路10號2樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/08-1-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市鼓山區明誠四路10號2樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"醫療保健<P>-中西醫院",
+"台北",
+"<img alt='店家logo' src='storepics/08-1-003.jpg' width='640'>",
+"海德堡牙醫診所",
+"植牙、牙周、矯正<p>台北市大安區大安路一段80號4樓<p>02-272-1882 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/台北市大安區大安路一段80號4樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/08-1-003.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/台北市大安區大安路一段80號4樓'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"醫療保健<P>-中西藥店",
+"台南",
+"<img alt='店家logo' src='storepics/08-2-001.jpg' width='640'>",
+"菁安連鎖藥局",
+"臺灣及各國進口健康、保健食品，醫師、藥師指示用藥。<p>臺南市永康區中華路599號<p>06-203-1203<p>1非特價商品。2買六送醫或打9折。3可積分送精美禮品。<P><a target='_blank' href='https://www.google.com.tw/maps/place/臺南市永康區中華路599號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/08-2-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/臺南市永康區中華路599號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"醫療保健<P>-醫療器材",
+"屏東",
+"<img alt='店家logo' src='storepics/08-3-001.jpg' width='640'>",
+"洪俊杰",
+"萊威光波貼片啟動自癒力讓人類遠離藥物<p>屏東市重慶路892號<p>0911-314-906 <p><P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市重慶路892號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/08-3-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市重慶路892號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"醫療保健<P>-健康食品",
+"屏東",
+"<img alt='店家logo' src='storepics/08-4-001.jpg' width='640'>",
+"無毒之家屏東中正店",
+"瑞士原裝有機果汁，Biotta系列商品。美國SolaMaster鍋具。<p>屏東市中正路22號<p>08-732-8818<p>現金全店商品9折，特價品除外。<P><a target='_blank' href='https://www.google.com.tw/maps/place/屏東市中正路22號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/08-4-001.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/屏東市中正路22號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+],
+[
+"醫療保健<P>-健康食品",
+"高雄",
+"<img alt='店家logo' src='storepics/08-4-002.jpg' width='640'>",
+"鑫晟國際企業社",
+"智慧綠生活系列天然、無毒、健康、養生、環保、節能<p>高雄市三民區鼎泰街146號<p>07-310-5672  / 0933-290-686 <p>9折<P><a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區鼎泰街146號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>",
+"storepics/08-4-002.jpg",
+"<a target='_blank' href='https://www.google.com.tw/maps/place/高雄市三民區鼎泰街146號'><img alt='店家地圖' src='media/images/gmap.jpg' width='60' style='border:0'/></a>"
+]
+]}
